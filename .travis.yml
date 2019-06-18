@@ -1,0 +1,4 @@
+language: bash
+rvm: 
+  - 2
+os: ubuntu
